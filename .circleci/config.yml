@@ -22,4 +22,4 @@ workflows:
       - deploy:
           filters:
             branches:
-              only: blog
+              only: hugo
