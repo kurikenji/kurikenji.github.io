@@ -2,6 +2,7 @@
 title: "HHKB Alt Controlerの調べ"
 date: 2020-03-16T20:40:00+09:00
 draft: false
+tags: [hhkb, qmk]
 ---
 
 # TL;DR
