@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 楽しいことを忘れないために</title>
+    <title>Posts on なんとか備忘録</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on 楽しいことを忘れないために</description>
+    <description>Recent content in Posts on なんとか備忘録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Mar 2020 20:40:00 +0900</lastBuildDate>
