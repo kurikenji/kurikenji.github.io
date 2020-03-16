@@ -1,50 +1,50 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kurikenji.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/tags/hhkb/</loc>
+    <loc>https://kurikenji.github.io/tags/hhkb/</loc>
     <lastmod>2020-03-16T20:40:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/2020-03-16-hhkb_alt_controller/</loc>
+    <loc>https://kurikenji.github.io/post/2020-03-16-hhkb_alt_controller/</loc>
     <lastmod>2020-03-16T20:40:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://kurikenji.github.io/post/</loc>
     <lastmod>2020-03-16T20:40:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/qmk/</loc>
+    <loc>https://kurikenji.github.io/tags/qmk/</loc>
     <lastmod>2020-03-16T20:40:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kurikenji.github.io/tags/</loc>
     <lastmod>2020-03-16T20:40:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kurikenji.github.io/</loc>
     <lastmod>2020-03-16T20:40:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kurikenji.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
