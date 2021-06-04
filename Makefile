@@ -15,7 +15,6 @@ edit: ## Edit specific post
 	@nvim `find $(POST_DIR) -name *.md | peco`
 
 deploy: ## Deploy posts
-	git submodule update -i
 	hugo
 	mkdir -p tmp && cd tmp && git clone git@github.com:kurikenji/kurikenji.github.io.git
 	rm -fr $(GITHUB_DIR)/*
